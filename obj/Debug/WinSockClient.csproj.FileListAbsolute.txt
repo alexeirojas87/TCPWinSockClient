@@ -1,0 +1,23 @@
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockClient\WinSockClient\bin\Debug\WinSockClient.dll
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockClient\WinSockClient\bin\Debug\WinSockClient.pdb
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockClient\WinSockClient\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockClient\WinSockClient\obj\Debug\WinSockClient.dll
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockClient\WinSockClient\obj\Debug\WinSockClient.pdb
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockClient\WinSockClient\bin\Debug\WinSockClient.dll
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockClient\WinSockClient\bin\Debug\WinSockClient.pdb
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockClient\WinSockClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockClient\WinSockClient\obj\Debug\WinSockClient.dll
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockClient\WinSockClient\obj\Debug\WinSockClient.pdb
+C:\Users\alexei\Documents\WinSockClient\WinSockClient\bin\Debug\WinSockClient.dll
+C:\Users\alexei\Documents\WinSockClient\WinSockClient\bin\Debug\WinSockClient.pdb
+C:\Users\alexei\Documents\WinSockClient\WinSockClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alexei\Documents\WinSockClient\WinSockClient\obj\Debug\WinSockClient.dll
+C:\Users\alexei\Documents\WinSockClient\WinSockClient\obj\Debug\WinSockClient.pdb
+C:\Users\alexei.rojas\Documents\Visual Studio 2010\Projects\WinSockClient\bin\Debug\WinSockClient.dll
+C:\Users\alexei.rojas\Documents\Visual Studio 2010\Projects\WinSockClient\bin\Debug\WinSockClient.pdb
+C:\Users\alexei.rojas\Documents\Visual Studio 2010\Projects\WinSockClient\obj\Debug\WinSockClient.dll
+C:\Users\alexei.rojas\Documents\Visual Studio 2010\Projects\WinSockClient\obj\Debug\WinSockClient.pdb
+D:\Trabajo\WinSockClient\bin\Debug\WinSockClient.dll
+D:\Trabajo\WinSockClient\bin\Debug\WinSockClient.pdb
+D:\Trabajo\WinSockClient\obj\Debug\WinSockClient.dll
+D:\Trabajo\WinSockClient\obj\Debug\WinSockClient.pdb
